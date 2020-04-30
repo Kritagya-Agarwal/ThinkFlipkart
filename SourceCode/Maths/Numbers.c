@@ -3,7 +3,10 @@
 
 // Function Added In Testing Branch 
 int mul(int x, int y){
-	return x*y;
+
+	int result = 0;
+	result = x - y;
+	return result;
 }
 
 int div(int x, int y){
