@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//Contain String Functions
 void toUpper(char string[]){
 	printf("Making String Upper\n");
 }

@@ -4,9 +4,9 @@
 // Function Added In Testing Branch 
 int mul(int x, int y){
 
-	int result = 0;
-	result = x - y;
-	return result;
+	int ressss = -1;
+	resss = x*y;
+	return resss;
 }
 
 int div(int x, int y){
